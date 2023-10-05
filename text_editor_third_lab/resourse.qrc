@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/my_img">
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/exit.png</file>
+        <file>img/new.png</file>
+        <file>img/clear.png</file>
+        <file>img/enlarge.png</file>
+        <file>img/lowercase.png</file>
+        <file>img/shrink.png</file>
+        <file>img/uppercase.png</file>
+        <file>img/about.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
