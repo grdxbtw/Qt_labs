@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resource"/>
+    <qresource prefix="/my_img">
+        <file>img/about.png</file>
+        <file>img/apply.png</file>
+        <file>img/cancel.png</file>
+        <file>img/exit.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+    </qresource>
+</RCC>
